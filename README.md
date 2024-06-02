@@ -1,1 +1,1 @@
-This is a collection of deep learning experiments found in the [fastai book](https://course.fast.ai/Resources/book.html)
+This is a collection of deep learning experiments found in the [fastai book](https://course.fast.ai/Resources/book.html). Most of these notebooks will be the same as those that our found in the book and on the fastai website (I highly recommend checking out the course!). However, I do provide my own comments, thoughts, and tagents along the way.
